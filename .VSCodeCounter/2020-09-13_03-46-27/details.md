@@ -1,10 +1,10 @@
 # Details
 
-Date : 2020-09-11 17:03:56
+Date : 2020-09-13 03:46:27
 
 Directory f:\codeforces
 
-Total : 68 files,  760 codes, 0 comments, 218 blanks, all 978 lines
+Total : 76 files,  881 codes, 0 comments, 258 blanks, all 1139 lines
 
 [summary](results.md)
 
@@ -20,10 +20,13 @@ Total : 68 files,  760 codes, 0 comments, 218 blanks, all 978 lines
 | [Beautiful Matrix.py](/Beautiful Matrix.py) | Python | 10 | 0 | 1 | 11 |
 | [Beautiful Year.py](/Beautiful Year.py) | Python | 11 | 0 | 6 | 17 |
 | [Bit++.py](/Bit++.py) | Python | 9 | 0 | 4 | 13 |
+| [Boredom.py](/Boredom.py) | Python | 0 | 0 | 1 | 1 |
 | [Boy or Girl.py](/Boy or Girl.py) | Python | 9 | 0 | 5 | 14 |
 | [Calculating Function.py](/Calculating Function.py) | Python | 7 | 0 | 1 | 8 |
 | [Candies and Two Sisters.py](/Candies and Two Sisters.py) | Python | 9 | 0 | 2 | 11 |
 | [Chat room.py](/Chat room.py) | Python | 20 | 0 | 2 | 22 |
+| [Cut Ribbon.py](/Cut Ribbon.py) | Python | 17 | 0 | 10 | 27 |
+| [Design Tutorial Learn from Math.py](/Design Tutorial Learn from Math.py) | Python | 12 | 0 | 4 | 16 |
 | [Divisibility Problem.py](/Divisibility Problem.py) | Python | 10 | 0 | 3 | 13 |
 | [Domino piling.py](/Domino piling.py) | Python | 2 | 0 | 1 | 3 |
 | [Dragons.py](/Dragons.py) | Python | 17 | 0 | 2 | 19 |
@@ -33,13 +36,14 @@ Total : 68 files,  760 codes, 0 comments, 218 blanks, all 978 lines
 | [Even Odds.py](/Even Odds.py) | Python | 12 | 0 | 3 | 15 |
 | [Expression.py](/Expression.py) | Python | 11 | 0 | 3 | 14 |
 | [Football.py](/Football.py) | Python | 9 | 0 | 1 | 10 |
+| [Fox And Snake.py](/Fox And Snake.py) | Python | 16 | 0 | 7 | 23 |
 | [Game With Sticks.py](/Game With Sticks.py) | Python | 6 | 0 | 3 | 9 |
 | [Games.py](/Games.py) | Python | 14 | 0 | 5 | 19 |
 | [George and Accommodation.py](/George and Accommodation.py) | Python | 9 | 0 | 3 | 12 |
 | [Gravity Flip.py](/Gravity Flip.py) | Python | 3 | 0 | 1 | 4 |
 | [HQ9+.py](/HQ9+.py) | Python | 5 | 0 | 4 | 9 |
 | [Helpful Maths.py](/Helpful Maths.py) | Python | 14 | 0 | 4 | 18 |
-| [Hit the Lottery.py](/Hit the Lottery.py) | Python | 0 | 0 | 1 | 1 |
+| [Hit the Lottery.py](/Hit the Lottery.py) | Python | 11 | 0 | 8 | 19 |
 | [Hulk.py](/Hulk.py) | Python | 9 | 0 | 4 | 13 |
 | [I Wanna Be the Guy.py](/I Wanna Be the Guy.py) | Python | 22 | 0 | 5 | 27 |
 | [IQ test.py](/IQ test.py) | Python | 13 | 0 | 2 | 15 |
@@ -61,6 +65,8 @@ Total : 68 files,  760 codes, 0 comments, 218 blanks, all 978 lines
 | [Soldier and Bananas.py](/Soldier and Bananas.py) | Python | 12 | 0 | 2 | 14 |
 | [Stones on the Table.py](/Stones on the Table.py) | Python | 12 | 0 | 2 | 14 |
 | [String Task.py](/String Task.py) | Python | 7 | 0 | 4 | 11 |
+| [Sum of Round Numbers.py](/Sum of Round Numbers.py) | Python | 21 | 0 | 2 | 23 |
+| [T-primes.py](/T-primes.py) | Python | 27 | 0 | 7 | 34 |
 | [Taxi.py](/Taxi.py) | Python | 28 | 0 | 8 | 36 |
 | [Team.py](/Team.py) | Python | 11 | 0 | 2 | 13 |
 | [Theatre Square.py](/Theatre Square.py) | Python | 13 | 0 | 9 | 22 |
@@ -70,11 +76,13 @@ Total : 68 files,  760 codes, 0 comments, 218 blanks, all 978 lines
 | [Ultra-Fast Mathematician.py](/Ultra-Fast Mathematician.py) | Python | 11 | 0 | 2 | 13 |
 | [Vanya and Fence.py](/Vanya and Fence.py) | Python | 12 | 0 | 4 | 16 |
 | [Vanya and Lanterns.py](/Vanya and Lanterns.py) | Python | 12 | 0 | 3 | 15 |
+| [Vasya the Hipster.py](/Vasya the Hipster.py) | Python | 9 | 0 | 1 | 10 |
 | [Way Too Long Words.py](/Way Too Long Words.py) | Python | 17 | 0 | 2 | 19 |
 | [Word Capitalization.py](/Word Capitalization.py) | Python | 3 | 0 | 3 | 6 |
 | [Word.py](/Word.py) | Python | 9 | 0 | 5 | 14 |
 | [Wrong Subtraction.py](/Wrong Subtraction.py) | Python | 9 | 0 | 3 | 12 |
 | [Xenia and Ringroad.py](/Xenia and Ringroad.py) | Python | 9 | 0 | 3 | 12 |
+| [Yet Another Two Integers Problem.py](/Yet Another Two Integers Problem.py) | Python | 8 | 0 | 1 | 9 |
 | [Young Physicist.py](/Young Physicist.py) | Python | 14 | 0 | 4 | 18 |
 | [cAPS lOCK.py](/cAPS lOCK.py) | Python | 16 | 0 | 5 | 21 |
 | [n_queen_problem.py](/n_queen_problem.py) | Python | 41 | 0 | 20 | 61 |
