@@ -8,7 +8,4 @@ for i in range(0, n):
     z = int(z)
     if(x+y+z == 3 or x+y == 2 or y+z == 2 or x+z == 2):
         counter = counter + 1
-    else:
-        counter = counter
-
 print(counter)
